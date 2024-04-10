@@ -1,0 +1,49 @@
+/* .details{
+    position:relative;
+} */
+.details{
+    position:relative;
+}
+.mainbox{
+    width:100%;
+    height:400px;
+}
+.detailimg{
+    width:100%;
+    height:400px;
+}
+.h2{
+    display: inline-block;
+    color:navy;
+}
+.btn1{
+   position: absolute;
+   right:0px;
+   margin-top:5px;
+   background-color: tomato;
+   color:white;
+   font-weight: bold;
+}
+.tabs{
+    list-style-type:none ;
+    padding:0%;
+}
+.Tab1{
+   display:inline-block;
+   border:none;
+   color:navy;
+   border-bottom:white;
+   margin-right:10px;
+  
+
+}
+.Tab1:hover{
+   
+    border-bottom:2px solid black;
+}
+.Tab1:active{
+    border-bottom:2px solid red;
+}
+.Tab1:visited{
+    border-bottom:2px solid red;
+} 
